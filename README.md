@@ -1,1 +1,1 @@
-# .github
+# Devcore Africa
